@@ -4,7 +4,7 @@ Mobile application built using Flutter(Dart).
 
 Project made based on the Computerized Maintenance Management Systems (CMMSs) used in industries to keep track on their maintenance work.
 
-This is just a manimum viable product, with a few tools that can help an industry to manage their assets.
+This is just a minimum viable product, with a few tools that can help an industry to manage their assets.
 
 
 ## Getting Started
