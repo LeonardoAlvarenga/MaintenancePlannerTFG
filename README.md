@@ -15,6 +15,7 @@ This is just a minimum viable product, with a few tools that can help an industr
 **Tools Developed**
 - Account Management
   - Login/Register
+  ![Login and Register Screen](https://github.com/LeonardoAlvarenga/MaintenancePlannerTFG/blob/c22917cabec2c8bf902b70185ee651e52a93f100/applicationScreenshots/Register-Login.png)
   - Password Changer
   - Email Changer
   - Delete Account Option
